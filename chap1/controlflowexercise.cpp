@@ -17,7 +17,7 @@ int main()
     int j = 10;
     while (j > 0)
     {
-        i--;
+        j--;
         std::cout << "j is currently " << j << std::endl;
     }
 
